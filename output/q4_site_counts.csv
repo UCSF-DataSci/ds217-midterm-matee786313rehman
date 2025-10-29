@@ -1,6 +1,6 @@
-site,patient_count
-Site A,2956
-Site B,2453
-Site C,2073
-Site D,1501
-Site E,1017
+,site,patient_count
+0,Site A,2956
+1,Site B,2453
+2,Site C,2073
+3,Site D,1501
+4,Site E,1017
