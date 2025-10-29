@@ -1,0 +1,6 @@
+Patients over 65: 8326
+Patients with systolic BP > 140: 538
+Patients over 65 AND systolic BP > 140: 464
+Patients from Site A or Site B (filter_data in_list, variants): 4661
+Matched site variants: ['site b', 'Site A', 'site a', 'SITE B', 'SITE A', '  Site B  ', '  site a  ', 'Site B', '  SITE B  ', '  site b  ', '  SITE A  ', '  Site A  ']
+Patients from Site A or Site B (isin on cleaned values): 4661

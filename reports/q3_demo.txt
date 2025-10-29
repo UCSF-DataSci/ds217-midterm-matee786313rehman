@@ -1,0 +1,28 @@
+Loaded 10000 rows, 18 columns
+Missing values per column:
+patient_id: 0
+age: 200
+sex: 0
+bmi: 626
+enrollment_date: 0
+systolic_bp: 414
+diastolic_bp: 414
+cholesterol_total: 554
+cholesterol_hdl: 554
+cholesterol_ldl: 554
+
+Summary (top 10 sites):
+                 age        bmi
+site                           
+SITE A     82.042857  26.266216
+SITE B     82.684783  26.809574
+SITE C     79.870370  26.687273
+SITE D     77.853659  27.241463
+SITE E     82.000000  25.519355
+Site  A    80.328358  26.264179
+Site A     83.677419  26.260938
+Site B     80.860465  26.506818
+Site C     79.822785  26.426506
+Site D     75.413793  26.381250
+
+Wrote output/q4_site_summary.csv and output/q4_site_counts.csv
